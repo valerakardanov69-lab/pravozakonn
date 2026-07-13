@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     "юрист онлайн",
     "банкротство по всей России",
   ],
+  verification: {
+  yandex: "9ee3ca9040cf4284",
+},
 
   robots: {
     index: true,
